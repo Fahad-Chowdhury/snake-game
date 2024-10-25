@@ -17,6 +17,6 @@ Fahad Chowdhury\
 [LinkedIn](https://www.linkedin.com/in/fahad-chowdhury-fi)\
 [GitHub](https://github.com/Fahad-Chowdhury)
 
-![Image Link](https://github.com/Fahad-Chowdhury/snake-game/blob/main/game.JPG)
+![Image Link](https://github.com/Fahad-Chowdhury/snake-game/blob/main/Capture.JPG)
 
 
